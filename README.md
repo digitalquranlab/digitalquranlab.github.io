@@ -1,5 +1,5 @@
 
-![QS, The QuranStudio](/assets/images/QuranLab-logo.png)
+![QL, The QuranLab](/assets/images/QuranLab-logo.png)
 
 QuranLab is an open incubator for quranic ideas and experiments
 ---------------------------------------------------------------

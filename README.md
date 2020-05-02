@@ -1,7 +1,7 @@
 
 ![QS, The QuranStudio](/assets/images/QuranLab-logo.png)
 
-QuranLab is an open an incubator for quranic ideas and experiments
+QuranLab is an open incubator for quranic ideas and experiments
 ---------------------------------------------------------------
 
 1. There is no limit to Quranic exploration. You are encouraged to suggest and be a part of these efforts to deep dive Quranic studies, unravel timeless treasures through data mining, text analysis, visualiszations and much more.   

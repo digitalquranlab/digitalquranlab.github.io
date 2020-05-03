@@ -16,7 +16,7 @@ QuranLab ideas
 2. Quranic Data Science   
 2.1 Quranic topics maps - interactive topic/concept maps of Quranic topics.  
 2.2 Quranic data visualization - interactive vizualizations using d3.js; R etecetera  
-2.3 Quranic catography
+2.3 Quranic cartography
 
 3. Furqanic Lense  
 

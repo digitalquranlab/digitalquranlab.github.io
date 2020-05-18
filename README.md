@@ -28,6 +28,10 @@ QuranLab ideas
    5.1 Graphic feature that give 3D/+ experience of deep dive which a topic of Quran is searched.  
    5.2 Provide rich-media/video etc aides while reading experiential ayats such as when there is mention about Jannat, when there is ask to ponder over how sky, earth, birds and mountains have been created etc.  
    5.3 Provide Augmented Reality (AR) like experience for ayats.  
+   
+6. Active learning of Quran  
+   6.1 Activity based learning of Quran - create activities around key concepts and ideas. for school children.
+   6.2 Project based learning of Quran - tasks bigger than activities can be designed as projects.  
 
 You can volunteer to contribute as below and more
 -------------------------------------------------
